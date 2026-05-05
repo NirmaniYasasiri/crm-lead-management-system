@@ -4,3 +4,4 @@ dev.db
 dist
 .vscode
 .DS_Store
+/src/generated/prisma
